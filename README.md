@@ -1,6 +1,6 @@
 ### Hi, I am Ehtesham! 👋
 
-- 🔭 I’m currently working as a Software Engineer Intern at Mezur.ai.
+- 🔭 I’m currently working as a Software Engineer Intern at Predli.
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on any Full-Stack Application.
 - 💬 Ask me about DSA or any Web related technologies.
