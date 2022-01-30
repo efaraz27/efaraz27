@@ -8,6 +8,7 @@
 - 😄 Pronouns: He/His.
 
 Some important links:
+
 LinkedIn - https://www.linkedin.com/in/ehtesham-faraz/
 Digital Resume - https://efaraz.vercel.app
 Portfolio - https://ehteshams-portfolio.webflow.io
