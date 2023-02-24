@@ -3,7 +3,7 @@
 A Computer Science and Technologies student at the University of Engineering and Management in Kolkata. I am an experienced Full stack developer with a passion for producing high-quality software that delivers positive user experiences.
 
 #### 🔭 What I'm currently working on
-I'm currently working on [MasterExcahnge](https://masterexchange.com/), a platform where you can invest in music by trading royalty shares and recieving royalty payouts.
+I'm currently working on [MasterExchange](https://masterexchange.com/), a platform where you can invest in music by trading royalty shares and recieving royalty payouts.
 
 
 #### 🌟 Looking to collaborate on
