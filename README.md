@@ -1,14 +1,18 @@
-### Hi, I am Ehtesham! 👋
+# Hi, I am Ehtesham! 👋
 
-- 🔭 I’m currently working as a Software Engineer Intern at MasterExchange.
-- 🌱 I’m currently learning AWS.
-- 👯 I’m looking to collaborate on any Full-Stack Application.
-- 💬 Ask me about any Web related technologies.
-- 📫 How to reach me: Message me on https://www.linkedin.com/in/ehtesham-faraz/ or email me at efaraz27@gmail.com.
+A Computer Science and Technologies student at the University of Engineering and Management in Kolkata. I am an experienced Full stack developer with a passion for producing high-quality software that delivers positive user experiences.
 
-Some important links:
+#### 🔭 What I'm currently working on
+I'm currently working on [MasterExcahnge](https://masterexchange.com/), a platform where you can invest in music by trading royalty shares and recieving royalty payouts.
 
-LinkedIn - https://www.linkedin.com/in/ehtesham-faraz/
-Portfolio - https://efaraz.vercel.app
 
-<img src="https://github-readme-stats.vercel.app/api?username=efaraz27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+#### 🌟 Looking to collaborate on
+I'm always open to collaborating on full-stack projects that align with my interests and skills. If you have a project in mind, feel free to reach out to me at [efaraz27@gmail.com](mailto:efaraz27@gmail.com).
+
+#### 📫 How to reach me
+You can reach me at [efaraz27@gmail.com](mailto:efaraz27@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ehtesham-faraz).
+
+#### 📈 GitHub stats
+[![Ehtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=efaraz27)](https://github.com/efaraz27)
+
+Thanks for stopping by!
