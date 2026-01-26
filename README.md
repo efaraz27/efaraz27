@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM0YW1lYnZsbDc2azh1NWQ4YW5idzk4OTJ3NDgzcDY4Ymh1MDFtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif" width="600" height="300"/>
 </div>
 
 ## Hi, I am Ehtesham! 👋
