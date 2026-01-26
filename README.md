@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM0YW1lYnZsbDc2azh1NWQ4YW5idzk4OTJ3NDgzcDY4Ymh1MDFtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif" width="600" height="300"/>
-</div>
-
 ## Hi, I am Ehtesham! 👋
 
 I am a Software Engineer and a Master's student in Global Software Development at **Fulda University of Applied Sciences**.
